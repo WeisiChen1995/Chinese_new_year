@@ -34,7 +34,7 @@ library(tibble)
 
 On my way to Hangzhou Xiaoshan International Airport for my return to Sydney, the streets were beautifully adorned with red lanterns 🏮 hanging from the streetlights. Inspired by this enchanting sight, I created the figure below in R during the trip (with help from ChatGPT—and a lot of iterations 😁). It definitely helped pass the time while I was waiting (endlessly) at the airport and enduring nearly 10 hours on the plane!!!
 
-Wishing everyone a Happy Chinese New Year of the Snake 🐍 2025!🧨🎇🎉🧧
+Wishing everyone a Happy Chinese New Year of the Snake 🐍 2025!!🧨🎇🎉🧧
 
 ```{r, echo=FALSE}
 # Make one red lantern - coding all the elements of a lantern
